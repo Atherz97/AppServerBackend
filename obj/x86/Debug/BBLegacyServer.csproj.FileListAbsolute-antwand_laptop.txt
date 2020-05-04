@@ -1,0 +1,6 @@
+C:\Users\Antwand\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\BBLegacyServer.csprojResolveAssemblyReference.cache
+C:\Users\Antwand\OneDrive\Documents\BBLegacyServer\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Antwand\OneDrive\Documents\BBLegacyServer\bin\Debug\ConsoleApplication.exe
+C:\Users\Antwand\OneDrive\Documents\BBLegacyServer\bin\Debug\ConsoleApplication.pdb
+C:\Users\Antwand\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Antwand\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\ConsoleApplication.pdb

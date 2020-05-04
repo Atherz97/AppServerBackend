@@ -1,0 +1,8 @@
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\BBLegacyServer.csprojResolveAssemblyReference.cache
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\bin\Debug\BBLegacyServer.exe.config
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\BBLegacyServer.g.resources
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\bin\Debug\BBLegacyServer.xml
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\bin\Debug\BBLegacyServer.exe
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\bin\Debug\BBLegacyServer.pdb
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\BBLegacyServer.exe
+C:\Users\ATH\OneDrive\Documents\BBLegacyServer\obj\x86\Debug\BBLegacyServer.pdb
